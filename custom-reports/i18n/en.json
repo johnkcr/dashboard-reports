@@ -1,0 +1,14 @@
+{
+  "title": "Custom Reports",
+  "create": "Create a custom report",
+  "emptyState": {
+    "title": "No custom reports",
+    "body": "Once you've created custom reports, they'll show up here."
+  },
+  "deleteConfirmationDialog": {
+    "title": "Delete custom report",
+    "body": "Are you sure you want to delete this custom report?",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  }
+}

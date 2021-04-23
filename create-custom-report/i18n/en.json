@@ -1,0 +1,10 @@
+{
+  "title": "Create a custom report",
+  "nameLabel": "Name",
+  "namePlaceholder": "Custom report name",
+  "submit": "Create custom report",
+  "errors": {
+    "nameRequired": "The name of the custom report is required.",
+    "nameLength": "The name of the custom report must be between 3 and 255 characters long. "
+  }
+}
